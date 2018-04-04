@@ -1,0 +1,15 @@
+---
+title: My First Post
+author: Devon Shurick
+date: '2018-04-03'
+slug: my-first-post
+categories:
+  - R
+tags:
+  - R Markdown
+header:
+  caption: ''
+  image: ''
+---
+
+Here is another post.
