@@ -18,12 +18,12 @@ weight = 5
 # List your qualifications (such as academic degrees).
 
 [[education.courses]]
-  course = "MSc in Statistics"
+  course = "MS in Statistics"
   institution = "Carnegie Mellon University"
   year = 2012
 
 [[education.courses]]
-  course = "BSc in Statistics"
+  course = "BA in Statistics"
   institution = "University of California, Berkeley"
   year = 2009
  
